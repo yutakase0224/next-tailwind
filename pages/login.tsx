@@ -3,7 +3,7 @@ import { join } from "path";
 const Login = () => {
   return (
     <div className="bg-white">
-      <div className="mx-auto max-w-full py-12 px-6 lg:py-16 lg:px-">
+      <div className="mx-auto max-w-full py-12 px-6 lg:py-16 lg:px-8">
         <h2 className="inline text-3xl font-bold tracking-tight text-gray-900 sm:block sm:text-4xl">
           Login Form
         </h2>
