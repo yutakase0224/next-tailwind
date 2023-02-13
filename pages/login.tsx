@@ -24,13 +24,14 @@ const Login = () => {
             placeholder="Enter your email"
           />
           <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-            <a href="https://npofos.or.jp/event"></a>
+            <a href="https://npofos.or.jp/event">
             <button
               type="submit"
               className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
             >
               Notify me
             </button>
+            </a>
           </div>
         </form>
       </div>
