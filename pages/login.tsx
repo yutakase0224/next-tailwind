@@ -4,7 +4,7 @@ const Login = () => {
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-7xl py-12 px-6 lg:py-16 lg:px-8">
-        <h2 className="inline text-3xl font-bold tracking-tight text-red-900 sm:block sm:text-4xl">
+        <h2 className="inline text-3xl font-bold tracking-tight text-gray-900 sm:block sm:text-4xl">
           Login Form
         </h2>
         <p className="inline text-3xl font-bold tracking-tight text-indigo-600 sm:block sm:text-4xl">
